@@ -85,7 +85,7 @@ export const date: DateConfig = {
     day: 'numeric',
     month: 'short',
     weekday: 'long',
-    year: '2-digit',
+    year: 'numeric',
   },
 }
 
