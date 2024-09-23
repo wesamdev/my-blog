@@ -11,7 +11,7 @@ export const site: SiteConfig = {
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'blog.wesam.site',
   lang: 'en-US',
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
-  subtitle: 'Powered by Urara',
+  subtitle: 'Wesam Almasruri\'s Blog',
   themeColor: '#3D4451',
   title: 'wesamdev blog',
 }
