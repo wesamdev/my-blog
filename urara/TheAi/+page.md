@@ -1,6 +1,6 @@
 ---
 title: 'The Rise of AI: Transforming Our World'
-image: '/blogs/hello-world/urara.webp'
+image: '/hello-world/urara.webp'
 alt: 'The Rise of AI: Transforming Our World'
 created: 2024-9-23
 updated: 2024-9-23
