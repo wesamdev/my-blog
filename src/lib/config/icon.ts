@@ -38,3 +38,12 @@ export const maskable: { [key: number]: Icon } = {
     type: 'image/png',
   },
 }
+
+export const myimg: { [key: number]: Icon } = {
+  512: {
+    sizes: '512x512',
+    src: `${site.protocol + site.domain}/assets/myimg@512.png`,
+    type: 'image/png',
+  },
+
+}
