@@ -7,11 +7,11 @@ export const site: SiteConfig = {
     name: 'Wesam Almasruri',
     status: '👨‍💻',
   },
-  description: 'Powered by SvelteKit/Urara',
+  description: 'Wesam Almasruri\'s Blog',
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'blog.wesam.site',
   lang: 'en-US',
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
-  subtitle: 'Sweet & Powerful SvelteKit Blog Template',
+  subtitle: 'Powered by Urara',
   themeColor: '#3D4451',
   title: 'wesamdev blog',
 }
