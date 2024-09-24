@@ -13,5 +13,5 @@ export const site: SiteConfig = {
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
   subtitle: 'Wesam Almasruri\'s Blog',
   themeColor: '#3D4451',
-  title: 'wesamdev blog',
+  title: 'WESAMDEV',
 }

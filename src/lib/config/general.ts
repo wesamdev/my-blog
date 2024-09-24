@@ -7,7 +7,11 @@ export const theme: ThemeConfig = [
   },
   {
     name: 'dracula',
-    text: '🧛 Dark',
+    text: '🧛 Dracula',
+  },
+  {
+    name: 'dark',
+    text: '🌜 Dark',
   },
   {
     name: 'coffee',
