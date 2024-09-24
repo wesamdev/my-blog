@@ -6,7 +6,7 @@
   <icon>https://blog.wesam.site/favicon.png</icon>
   <link href="https://blog.wesam.site" />
   <link href="https://blog.wesam.site/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2024-09-24T17:36:57.174Z</updated>
+  <updated>2024-09-24T17:43:53.076Z</updated>
   <author>
     <name><![CDATA[Wesam Almasruri]]></name>
   </author>
@@ -16,7 +16,7 @@
   <category term="Python" scheme="https://blog.wesam.site/?tags=Python" />
   <category term="Ai" scheme="https://blog.wesam.site/?tags=Ai" />
   <entry>
-    <title type="html"><![CDATA[The Power of JavaScript: A Comprehensive Overview of Its Role in Modern Web Development]]></title>
+    <title type="html"><![CDATA[An Introduction to JavaScript and Its Importance in Web Development]]></title>
     <link href="https://blog.wesam.site/JavaScript" />
     <id>https://blog.wesam.site/JavaScript</id>
     <published>2024-09-24T00:00:00.000Z</published>
