@@ -1,7 +1,7 @@
 ---
-title: 'The Power of JavaScript: A Comprehensive Overview of Its Role in Modern Web Development'
+title: 'An Introduction to JavaScript and Its Importance in Web Development'
 image: '/JavaScript/js.jpg'
-alt: 'The Power of JavaScript: A Comprehensive Overview of Its Role in Modern Web Development'
+alt: 'An Introduction to JavaScript and Its Importance in Web Development'
 created: 2024-9-24
 updated: 2024-9-24
 tags:
