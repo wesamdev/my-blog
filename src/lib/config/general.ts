@@ -14,6 +14,10 @@ export const theme: ThemeConfig = [
     text: '🌜 Dark',
   },
   {
+    name: 'light',
+    text: '🌞 Light',
+  },
+  {
     name: 'coffee',
     text: '☕ Coffee',
   },
