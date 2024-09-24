@@ -68,6 +68,10 @@ export const footer: FooterConfig = {
       link: '/sitemap.xml',
       text: 'Sitemap',
     },
+    {
+      link: 'https://instagram.com/wesamdev',
+      text: 'Instagram',
+    },
   ],
 }
 
