@@ -11,17 +11,22 @@
     </url>
     
         <url>
-            <loc>https://blog.wesam.site/JavaScript</loc>
+            <loc>https://blog.wesam.site/blog/Java</loc>
+            <lastmod>2024-09-25T00:00:00.000Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://blog.wesam.site/blog/JavaScript</loc>
             <lastmod>2024-09-24T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://blog.wesam.site/Python</loc>
+            <loc>https://blog.wesam.site/blog/Python</loc>
             <lastmod>2024-09-24T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://blog.wesam.site/TheAi</loc>
+            <loc>https://blog.wesam.site/blog/TheAi</loc>
             <lastmod>2024-09-23T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
