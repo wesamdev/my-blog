@@ -1,6 +1,6 @@
 ---
 title: 'The Power of Python: A Language for Everyone'
-image: '/Python/python.jpg'
+image: '/blog/Python/python.jpg'
 alt: 'The Power of Python: A Language for Everyone'
 created: 2024-9-24
 updated: 2024-9-24
