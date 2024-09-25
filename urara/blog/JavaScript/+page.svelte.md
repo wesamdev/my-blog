@@ -1,6 +1,6 @@
 ---
 title: 'An Introduction to JavaScript and Its Importance in Web Development'
-image: '/JavaScript/js.jpg'
+image: '/blog/JavaScript/js.jpg'
 alt: 'An Introduction to JavaScript and Its Importance in Web Development'
 created: 2024-9-24
 updated: 2024-9-24

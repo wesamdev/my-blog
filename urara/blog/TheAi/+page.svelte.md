@@ -1,6 +1,6 @@
 ---
 title: 'The Rise of AI: Transforming Our World'
-image: '/TheAi/ai.jpg'
+image: '/blog/TheAi/ai.jpg'
 alt: 'The Rise of AI: Transforming Our World'
 created: 2024-9-23
 updated: 2024-9-23
