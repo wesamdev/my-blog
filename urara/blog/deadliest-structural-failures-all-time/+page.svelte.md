@@ -2,10 +2,11 @@
 title: 'The 30 Deadliest Structural Failures of All Time'
 created: 2024-9-24
 updated: 2024-9-24
+flags: // custom flags
+  - unlisted // hide article on the home page
 tags:
   - 'neature'
 ---
-
 Throughout history, structural failures caused by faulty construction materials or heavy rains have led to building collapses, dam failures, bridges collapsing, and more, with some of the deadliest of these causing the deaths of hundreds or even thousands of people.
 
 The [ForneyVault](https://forneyvault.com/) research team put together a list of 30 structural failures that have led to the highest death tolls in history, including the circumstances that led to these structures failing in such a catastrophic way. When going through the list, take note of how many of these deadly disasters were caused by safety issues being ignored or improper construction of the structure. In certain instances, the building owner, engineers, inspectors, or even the local government were found to have cut corners during construction or inspections, which led to these catastrophic consequences. One investigation of faulty construction even found that cooking-oil cans were used as building materials to fill in wall cavities!
