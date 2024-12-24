@@ -1,41 +1,45 @@
 ---
-title: 'Privacy policy'
+title: 'سياسه الخصوصية'
 created: 2024-9-23
 updated: 2024-9-23
 flags: // custom flags
   - unlisted // hide article on the home page
 ---
-**Last updated: 2024-9-23**
+# آخر تحديث: 2024-9-23
 
-Welcome to the Wesamdev Blog. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your personal information.
+مرحبًا بكم في **مدونة مدرسة مالك بن فهم**. نحن نولي خصوصيتك أهمية كبيرة. توضح سياسة الخصوصية هذه كيفية جمعنا واستخدامنا وحمايتنا لمعلوماتك الشخصية.
 
-## Information We Collect
+## المعلومات التي نجمعها
 
-- **Personal Information:** We may collect personal information such as your name and email address when you subscribe to our newsletter or contact us.
-- **Usage Data:** We may collect information about how you access and use our blog, including your IP address, browser type, and pages visited.
+- **المعلومات الشخصية:**
+  قد نجمع معلومات شخصية مثل اسمك وعنوان بريدك الإلكتروني عند الاشتراك في نشرتنا الإخبارية أو التواصل معنا.
 
-## How We Use Your Information
+- **بيانات الاستخدام:**
+  قد نجمع معلومات حول كيفية وصولك إلى مدونتنا واستخدامها، بما في ذلك عنوان IP الخاص بك، ونوع المتصفح، والصفحات التي زرتها.
 
-We may use the information we collect for the following purposes:
+## كيفية استخدامنا لمعلوماتك
 
-- To improve our blog and user experience.
-- To communicate with you, including responding to inquiries.
-- To send periodic emails about updates, articles, or other blog-related information.
+قد نستخدم المعلومات التي نجمعها للأغراض التالية:
 
-## Cookies
+- تحسين المدونة وتجربة المستخدم.
+- التواصل معك، بما في ذلك الرد على الاستفسارات.
+- إرسال رسائل بريد إلكتروني دورية حول التحديثات والمقالات أو أي معلومات ذات صلة بالمدونة.
 
-Our blog may use cookies to enhance user experience. You can choose to accept or decline cookies through your browser settings.
+## ملفات تعريف الارتباط (Cookies)
 
-## Data Security
+قد تستخدم مدونتنا ملفات تعريف الارتباط لتحسين تجربة المستخدم. يمكنك اختيار قبول أو رفض ملفات تعريف الارتباط من خلال إعدادات متصفحك.
 
-We are committed to ensuring the security of your information. We take reasonable precautions to protect your personal data from unauthorized access.
+## أمان البيانات
 
-## Third-Party Services
+نحن ملتزمون بضمان أمان معلوماتك. نتخذ الاحتياطات اللازمة لحماية بياناتك الشخصية من الوصول غير المصرح به.
 
-We may use third-party services for analytics and advertising purposes. These services may collect information about your usage of our blog.
+## خدمات الجهات الخارجية
 
-## Changes to This Privacy Policy
+قد نستخدم خدمات جهات خارجية لأغراض التحليل والإعلانات. قد تجمع هذه الخدمات معلومات حول استخدامك لمدونتنا.
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page.
+## تغييرات على سياسة الخصوصية
 
-If you have any questions about this Privacy Policy, please contact us at **dev@wesam.site**.
+قد نقوم بتحديث سياسة الخصوصية من وقت لآخر. سنقوم بإعلامك بأي تغييرات عن طريق نشر السياسة الجديدة على هذه الصفحة.
+
+إذا كان لديك أي أسئلة حول سياسة الخصوصية هذه، يرجى التواصل معنا عبر البريد الإلكتروني:
+**dev@wesam.site**

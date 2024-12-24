@@ -1,37 +1,38 @@
 ---
-title: 'Terms of service'
+title: 'شروط الخدمة'
 created: 2024-9-23
 updated: 2024-9-23
 flags: // custom flags
   - unlisted // hide article on the home page
 ---
 
-**Last updated: 2024-9-23**
+# آخر تحديث: 2024-9-23
 
-Welcome to the Wesamdev Blog. By accessing or using our blog, you agree to comply with and be bound by the following terms.
+مرحبًا بكم في **مدونة مدرسة مالك بن فهم**. باستخدامك لهذه المدونة أو الوصول إليها، فإنك توافق على الالتزام بالشروط التالية.
 
-## Acceptance of Terms
+## قبول الشروط
 
-By using the Wesamdev Blog, you agree to these Terms of Service. If you do not agree, please do not use our blog.
+باستخدامك لمدونة مدرسة مالك بن فهم، فإنك توافق على هذه الشروط. إذا كنت لا توافق على هذه الشروط، يرجى عدم استخدام المدونة.
 
-## Content
+## المحتوى
 
-The content provided on this blog is for informational purposes only. We make no representations about the accuracy or completeness of the information.
+المحتوى المقدم في هذه المدونة هو لأغراض معلوماتية فقط. نحن لا نقدم أي ضمانات بخصوص دقة أو اكتمال المعلومات.
 
-## User Conduct
+## سلوك المستخدم
 
-You agree not to engage in any behavior that could harm, disrupt, or otherwise negatively impact the Wesamdev Blog or its users.
+توافق على عدم القيام بأي تصرف قد يضر أو يعطل أو يؤثر سلبًا على مدونة مدرسة مالك بن فهم أو مستخدميها.
 
-## Intellectual Property
+## حقوق الملكية الفكرية
 
-All content on the Wesamdev Blog, including text, graphics, and images, is the property of Wesam Almasruri and is protected by copyright laws.
+جميع المحتويات الموجودة في مدونة مدرسة مالك بن فهم، بما في ذلك النصوص والرسومات والصور، هي ملك للمدونة ومحميّة بموجب قوانين حقوق النشر.
 
-## Limitation of Liability
+## تحديد المسؤولية
 
-Wesamdev Blog will not be liable for any damages arising from the use of or inability to use the blog.
+لا تتحمل مدونة مدرسة مالك بن فهم أي مسؤولية عن أي أضرار تنشأ نتيجة استخدام المدونة أو عدم القدرة على استخدامها.
 
-## Changes to These Terms
+## تغييرات على هذه الشروط
 
-We may update these Terms of Service from time to time. We will notify you of any changes by posting the new terms on this page.
+قد نقوم بتحديث شروط الخدمة هذه من وقت لآخر. سنقوم بإبلاغك بأي تغييرات عن طريق نشر الشروط الجديدة على هذه الصفحة.
 
-If you have any questions about these Terms, please contact us at **dev@wesam.site**.
+إذا كان لديك أي أسئلة حول هذه الشروط، يرجى التواصل معنا عبر البريد الإلكتروني:
+**dev@wesam.site**

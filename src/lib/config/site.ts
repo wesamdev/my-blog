@@ -3,15 +3,15 @@ import type { SiteConfig } from '$lib/types/site'
 export const site: SiteConfig = {
   author: {
     avatar: '/assets/myimg@512.png',
-    bio: 'Hi, I\'m Wesam Almasruri, a 16-year-old software developer and web designer from Oman. I\'ve been passionate about coding since childhood and love creating websites.',
-    name: 'Wesam Almasruri',
-    status: '👨‍💻',
+    bio: 'المدونة الرسمية الخاصة بمدرسة مالك بن فهم.',
+    name: 'مدرسة مالك بن فهم',
+    status: '📘',
   },
-  description: 'Wesam Almasruri\'s Blog',
+  description: 'مدونة مدرسة مالك بن فهم.',
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'blog.wesam.site',
-  lang: 'en-US',
+  lang: 'ar-OM',
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
-  subtitle: 'Wesam Almasruri\'s Blog',
+  subtitle: 'مدونة مدرسة مالك بن فهم.',
   themeColor: '#3D4451',
-  title: 'WESAMDEV',
+  title: 'مالك بن فهم',
 }

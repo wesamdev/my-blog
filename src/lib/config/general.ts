@@ -3,51 +3,51 @@ import type { DateConfig, FeedConfig, FooterConfig, HeadConfig, HeaderConfig, Th
 export const theme: ThemeConfig = [
   {
     name: 'cmyk',
-    text: '🖨 Light',
+    text: '🖨 فاتح',
   },
   {
     name: 'dracula',
-    text: '🧛 Dracula',
+    text: '🧛 دراكولا',
   },
   {
     name: 'dark',
-    text: '🌜 Dark',
+    text: '🌜 داكن',
   },
   {
     name: 'light',
-    text: '🌞 Light',
+    text: '🌞 فاتح',
   },
   {
     name: 'coffee',
-    text: '☕ Coffee',
+    text: '☕ قهوة',
   },
   {
     name: 'forest',
-    text: '🌲 Forest',
+    text: '🌲 غابة',
   },
   {
     name: 'night',
-    text: '🌃 Night',
+    text: '🌃 ليل',
   },
   {
     name: 'lemonade',
-    text: '🍋 Lemonade',
+    text: '🍋 ليمونادا',
   },
   {
     name: 'cupcake',
-    text: '🧁 Cupcake',
+    text: '🧁 كب كيك',
   },
   {
     name: 'retro',
-    text: '🌇 Retro',
+    text: '🌇 ريترو',
   },
   {
     name: 'black',
-    text: '🖤 Black',
+    text: '🖤 أسود',
   },
   {
     name: 'winter',
-    text: '❄ Winter',
+    text: '❄ شتاء',
   },
 ]
 
@@ -57,11 +57,11 @@ export const header: HeaderConfig = {
   nav: [
     {
       link: '/privacy-policy',
-      text: 'Privacy policy',
+      text: 'سياسة الخصوصية',
     },
     {
       link: '/terms-of-service',
-      text: 'Terms of service',
+      text: 'شروط الخدمة',
     },
   ],
 }
@@ -70,21 +70,21 @@ export const footer: FooterConfig = {
   nav: [
     {
       link: '/atom.xml',
-      text: 'Feed',
+      text: 'أتوم',
     },
     {
       link: '/sitemap.xml',
-      text: 'Sitemap',
+      text: 'خريطة الموقع',
     },
     {
-      link: 'https://instagram.com/wesamdev',
-      text: 'Instagram',
+      link: 'https://www.instagram.com/malikfahm.school/',
+      text: 'إنستغرام',
     },
   ],
 }
 
 export const date: DateConfig = {
-  locales: 'en-US',
+  locales: 'ar-OM',
   options: {
     day: 'numeric',
     month: 'short',
