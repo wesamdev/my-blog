@@ -1,6 +1,6 @@
 {
   "background_color": "#3D4451",
-  "description": "Wesam Almasruri's Blog",
+  "description": "مدونة مدرسة مالك بن فهم.",
   "display": "standalone",
   "icons": [
     {
@@ -29,11 +29,11 @@
     }
   ],
   "id": "https://blog.wesam.site/",
-  "lang": "en-US",
-  "name": "WESAMDEV",
+  "lang": "ar-OM",
+  "name": "مالك بن فهم",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "WESAMDEV",
+  "short_name": "مالك بن فهم",
   "start_url": "/",
   "theme_color": "#3D4451"
 }
